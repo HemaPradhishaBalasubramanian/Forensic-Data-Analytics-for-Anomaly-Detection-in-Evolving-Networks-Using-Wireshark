@@ -1,0 +1,24 @@
+# Phase 3: Data Preprocessing
+
+## Overview
+This phase prepares captured network traffic data for analysis by cleaning and organizing it.
+
+## Objectives
+- Import packet data.
+- Clean and preprocess data.
+- Extract important network features.
+
+## Tasks Completed
+- Imported data into Python
+- Removed missing values
+- Cleaned duplicate records
+- Extracted packet information
+- Structured data using Pandas
+
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+
+## Outcome
+Prepared a clean and structured dataset for network traffic analysis.

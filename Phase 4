@@ -1,0 +1,24 @@
+# Phase 4: Network Traffic Analysis
+
+## Overview
+This phase analyzes network traffic to identify communication patterns and suspicious behavior.
+
+## Objectives
+- Analyze network protocols.
+- Examine IP addresses and ports.
+- Generate network traffic statistics.
+
+## Tasks Completed
+- Protocol analysis
+- Source and destination IP analysis
+- Port analysis
+- Packet size analysis
+- Traffic pattern analysis
+
+## Technologies Used
+- Python
+- Pandas
+- Wireshark
+
+## Outcome
+Successfully analyzed network traffic and identified potential suspicious activities.

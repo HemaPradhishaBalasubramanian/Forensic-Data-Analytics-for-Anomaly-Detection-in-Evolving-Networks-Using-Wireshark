@@ -1,0 +1,23 @@
+# Phase 5: Anomaly Detection
+
+## Overview
+This phase focuses on detecting abnormal network behavior by identifying deviations from normal traffic.
+
+## Objectives
+- Detect unusual traffic patterns.
+- Identify suspicious network activities.
+- Support forensic investigations.
+
+## Tasks Completed
+- Defined normal traffic behavior
+- Detected abnormal traffic
+- Identified suspicious connections
+- Generated anomaly detection results
+
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+
+## Outcome
+Successfully detected anomalies that may indicate potential cybersecurity threats.

@@ -1,0 +1,23 @@
+# Phase 2: Network Traffic Collection
+
+## Overview
+This phase focuses on capturing network packets using Wireshark and preparing packet capture files for analysis.
+
+## Objectives
+- Capture live network traffic.
+- Save packet captures for forensic analysis.
+- Export captured data.
+
+## Tasks Completed
+- Started packet capture
+- Applied capture filters
+- Monitored network activity
+- Saved packet captures as PCAP files
+- Exported network traffic
+
+## Technologies Used
+- Wireshark
+- PCAP Files
+
+## Outcome
+Successfully collected network traffic data for forensic investigation.

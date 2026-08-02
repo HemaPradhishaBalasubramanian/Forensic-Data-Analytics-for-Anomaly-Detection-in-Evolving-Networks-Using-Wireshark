@@ -1,0 +1,27 @@
+# Phase 1: Project Setup
+
+## Overview
+The first phase focuses on setting up the development environment and organizing the project structure for network forensic analysis.
+
+## Objectives
+- Install required software and libraries.
+- Set up the project workspace.
+- Initialize Git and GitHub.
+- Prepare the environment for network traffic analysis.
+
+## Tasks Completed
+- Installed Python
+- Installed Wireshark
+- Created project folder structure
+- Initialized Git repository
+- Created GitHub repository
+- Installed required Python packages
+
+## Technologies Used
+- Python
+- Wireshark
+- Git
+- GitHub
+
+## Outcome
+Successfully prepared the development environment for forensic network traffic analysis.

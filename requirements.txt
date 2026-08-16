@@ -6,4 +6,3 @@ matplotlib
 seaborn
 pyyaml
 python-nmap
-tshark-binaries     # optional helper on some platforms (install system tshark separately)

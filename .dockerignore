@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.git/
+.gitignore
+
+data/raw/
+data/processed/
+*.csv
+
+*.dll
+*.pkl
